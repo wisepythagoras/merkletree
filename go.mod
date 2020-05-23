@@ -1,3 +1,3 @@
-module github.com/cbergoon/merkletree
+module github.com/wisepythagoras/merkletree
 
 go 1.12
